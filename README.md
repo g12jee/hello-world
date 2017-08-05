@@ -1,2 +1,3 @@
 # hello-world
-Just Another Repository
+
+Learning about GIT is fun! 
